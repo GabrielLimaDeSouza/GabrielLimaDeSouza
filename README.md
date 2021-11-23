@@ -20,6 +20,7 @@
   <a href = "mailto:gabriel.souza.1354648@sga.pucminas.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
   <a href="https://www.linkedin.com/in/gabriel-lima-de-souza-b694041b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:gabriel.limasouza@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5531983655842" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   
   
 ![Snake animation](https://github.com/GabrielLimaDeSouza/GabrielLimaDeSouza/blob/output/github-contribution-grid-snake.svg)
