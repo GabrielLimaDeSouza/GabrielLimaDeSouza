@@ -2,9 +2,12 @@
 
 <div align="center">
   <a href="https://github.com/GabrielLimaDeSouza">
-  <img height="180px" width="360px" src="https://github-readme-stats.vercel.app/api?username=GabrielLimaDeSouza&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180px" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLimaDeSouza&layout=compact&langs_count=7&theme=cobalt"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=GabrielLimaDeSouza&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" style="object-fit: contain; height: 150px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLimaDeSouza&layout=compact&langs_count=7&theme=cobalt" style="object-fit: contain; height: 150px;" />
+  </a>
 </div>
+
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
