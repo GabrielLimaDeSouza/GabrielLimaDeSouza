@@ -1,6 +1,6 @@
 # Olá, bem vindo ao meu perfil do GitHub!!! 👋
 
-Meu nome é Gabriel Lima de Souza, tenho 20 anos e moro em Belo Horizonte/MG. Sou estudante do curso de Engenharia de Software da PUC Minas e atualmente estou no quarto período.
+Meu nome é Gabriel Lima de Souza, tenho 20 anos e moro em Belo Horizonte/MG. Sou estudante do curso de Engenharia de Software da PUC Minas e atualmente estou no quinto período.
 
 ##
 
