@@ -1,8 +1,14 @@
 # Olá, bem vindo ao meu perfil do GitHub!!! 👋
 
+<p align="center">
+  <img src="https://github.com/GabrielLimaDeSouza/GabrielLimaDeSouza/assets/90854484/873b2053-3099-488b-addb-a4db8454fc13" alt="Nome da Imagem" width="700">
+</p>
+
+## Sobre Mim
+
 Meu nome é Gabriel Lima de Souza, tenho 21 anos e moro em Belo Horizonte/MG. Sou estudante do curso de Engenharia de Software da PUC Minas e atualmente estou no sexto período.
 
-##
+## Estatísticas sobre o meu perfil
 
 <div align="center">
   <a href="https://github.com/GabrielLimaDeSouza">
@@ -17,11 +23,13 @@ Meu nome é Gabriel Lima de Souza, tenho 21 anos e moro em Belo Horizonte/MG. So
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" >  
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
   <img align="center" alt="NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
@@ -29,8 +37,6 @@ Meu nome é Gabriel Lima de Souza, tenho 21 anos e moro em Belo Horizonte/MG. So
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="ReactNative" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div>
   
 ## Informações de contato:
