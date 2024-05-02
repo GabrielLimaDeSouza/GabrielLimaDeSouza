@@ -12,8 +12,8 @@ Meu nome é Gabriel Lima de Souza, tenho 21 anos e moro em Belo Horizonte/MG. So
 
 <div align="center">
   <a href="https://github.com/GabrielLimaDeSouza">
-    <img src="https://github-readme-stats.vercel.app/api?username=GabrielLimaDeSouza&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" style="object-fit: contain; height: 180px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLimaDeSouza&layout=compact&langs_count=7&theme=cobalt" style="object-fit: contain; height: 180px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=GabrielLimaDeSouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="object-fit: contain; height: 180px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLimaDeSouza&layout=compact&langs_count=7&theme=tokyonight" style="object-fit: contain; height: 180px;" />
   </a>
 </div>
 
