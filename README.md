@@ -1,6 +1,6 @@
 # Olá, bem vindo ao meu perfil do GitHub!!! 👋
 
-Meu nome é Gabriel Lima de Souza, tenho 20 anos e moro em Belo Horizonte/MG. Sou estudante do curso de Engenharia de Software da PUC Minas e atualmente estou no quinto período.
+Meu nome é Gabriel Lima de Souza, tenho 21 anos e moro em Belo Horizonte/MG. Sou estudante do curso de Engenharia de Software da PUC Minas e atualmente estou no sexto período.
 
 ##
 
@@ -22,7 +22,7 @@ Meu nome é Gabriel Lima de Souza, tenho 20 anos e moro em Belo Horizonte/MG. So
   <img align="center" alt="MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
 ## Em aprendizado
@@ -45,6 +45,9 @@ Meu nome é Gabriel Lima de Souza, tenho 20 anos e moro em Belo Horizonte/MG. So
 
 ##
   
-![Snake animation](https://github.com/GabrielLimaDeSouza/GabrielLimaDeSouza/blob/output/github-contribution-grid-snake.svg)
-  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielLimaDeSouza/GabrielLimaDeSouza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielLimaDeSouza/GabrielLimaDeSouza/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielLimaDeSouza/GabrielLimaDeSouza/output/github-contribution-grid-snake.svg">
+</picture>  
 
