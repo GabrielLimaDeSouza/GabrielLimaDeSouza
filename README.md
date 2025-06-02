@@ -6,7 +6,7 @@
 
 ## Sobre Mim
 
-Meu nome é Gabriel Lima de Souza, tenho 21 anos e moro em Belo Horizonte/MG. Sou estudante do curso de Engenharia de Software da PUC Minas e atualmente estou no sexto período.
+Meu nome é Gabriel Lima de Souza, tenho 22 anos e moro em Belo Horizonte/MG. Sou estudante do curso de Engenharia de Software da PUC Minas e atualmente estou no oitavo período.
 
 ## Estatísticas sobre o meu perfil
 
